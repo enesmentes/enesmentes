@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesmentes
-- 👀 I’m interested in robotics and rocket science.
-- 🌱 I’m currently learning robotics.
+- 👀 I’m interested in robotics, data science, ai and rocket science.
+- 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on my project.
 - 📫 How to reach me enesmentes94@gmail.com
 
